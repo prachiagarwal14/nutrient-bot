@@ -87,6 +87,8 @@
         "Green tea prevents cancer, Apart from causing premature aging, free radicals are also responsible for causing certain types of cancer. The Catechins present in green tea neutralize these free radicals, prevent formation of carcinogens like nitrosamines and reduce the risk of cancer for people who regularly consume green tea. "
     },
     "Jam": {
+         " Jam is an interesting condiment because its neither a solid or a liquid."
+	 " The Irish call it jam. The Americans call it jelly."
     	"Marmalade is citrus-fruit based jam. They are both very similar, the type of fruit is the only difference.",
         "The quantity of sugar in jam is often the same as the quantity of fruit in the jam.",
         "Jam is known as 'jelly' in the United States.",
