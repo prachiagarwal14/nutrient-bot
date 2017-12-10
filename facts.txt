@@ -169,4 +169,12 @@
         "Eggs contain Lutien and zeaxanthing which help maintain good eyesight. These antioxidants help prevent blindness in people over the age of 65 and helps decrease the chance of getting cataracts.",
 	"Eggs contain all 9 essential amino acids which our bodies cannot make ( we have to get them from food). Eggs are one of the only foods that contain all nine and are considered a complete protein.",
 	"Recent research done by Harvard shows that enjoying an egg a day will not increase your chance of heart disease."
-}
+},
+ "Avocados"
+ {
+
+   " First things first, avocados are a fruit, not a vegetable".
+   " Avocados contain four grams of protein, making them the fruit with the highest protein content "
+   "Avocados used to be eaten by giant ground sloths and were saved from extinction by humans. "
+   " The avocado evolved to appeal to extinct megafauna (e.g. the giant armadillo) in order to facilitate seed dispersal via ingestion and excretion. This is why the avocado has such a sizeable seed."
+   },
